@@ -1,6 +1,5 @@
 # Requisitos
 Plutonium T6 atualizado
-Servidor Zombies configurado
 
 # Objetivo do Projeto
 
