@@ -1,32 +1,37 @@
-🔥 Wonder Weapons T6ZM
+#⚠️ Requisitos
+Plutonium T6 atualizado
+Servidor Zombies configurado
 
-Mod para Call of Duty: Black Ops II (Plutonium T6 - Zombies) que adiciona e unifica as 3 Wonder Weapons em múltiplos mapas, permitindo utilizá-las simultaneamente sem limitações.
+#🛠️ Objetivo do Projeto
 
-🎮 Mapas Suportados
-Die Rise
-Tranzit
-Town
-Farm
-Bus Depot
-⚙️ Funcionalidades
-✅ Uso simultâneo das 3 Wonder Weapons
-✅ Sistema unificado (sem conflitos entre armas)
-✅ Não requer modo LAN
-✅ Correção do erro de clientfield
-✅ Código otimizado e estável
-✅ Compatível com servidores dedicados Plutonium T6
-🚀 Sobre o Projeto
+Este projeto foi criado com o objetivo de:
 
-Este projeto foi desenvolvido com foco em:
+Expandir a experiência Zombies
+Permitir múltiplas Wonder Weapons simultaneamente
+Servir como base para outros mods
+#🤝 Código Aberto
 
-Melhorar a experiência no modo Zombies
-Permitir maior liberdade de gameplay
-Facilitar integração em servidores/mods personalizados
+Este projeto é open source.
 
-A versão atual resolve limitações presentes em versões antigas, especialmente relacionadas ao uso simultâneo das armas e problemas de sincronização.
+✔ Sinta-se livre para usar
+✔ Modificar
+✔ Integrar em seus projetos
 
-📂 Estrutura
+#👉 Apenas mantenha os créditos.
 
-O mod pode ser integrado diretamente em:
+#👥 Créditos
+Cowldwink
+Freestyle
+Frozedy
+GabsPuN
+#⚡ Autor da versão
+_pro7
 
-Plutonium/storage/t6/mods/****
+Projetos focados em melhorias e mods para BO2 Zombies.
+
+#⭐ Apoie
+
+Se este projeto te ajudou:
+
+⭐ Dê uma estrela no repositório
+🔁 Compartilhe com outros modders
