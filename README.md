@@ -7,7 +7,6 @@ Este projeto foi criado com o objetivo de:
 
 Expandir a experiência Zombies
 Permitir múltiplas Wonder Weapons simultaneamente
-Servir como base para outros mods
 
 #Este projeto é open source.
 
