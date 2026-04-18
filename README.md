@@ -24,6 +24,7 @@ Cowldwink
 Freestyle
 Frozedy
 GabsPuN
+
 #⚡ Autor da versão
 _pro7
 
