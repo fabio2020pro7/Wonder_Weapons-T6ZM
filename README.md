@@ -1,4 +1,4 @@
-#Como compilar
+# Como compilar
 Instale a ferramenta t6modm. Configure as variáveis de ambiente, caso não tenha feito antes, para isso, defina o arquivo .t6modm.env.
 
 t6modm build - Isso vai gerar o mod para debug, você já pode usar diretamente
