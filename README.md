@@ -23,11 +23,9 @@ Apenas mantenha os créditos.
 Cowldwink, Freestyle, Frozedy e GabsPuN
 
 e tambem deixarei creditos ao Gustavo10Destroyer por me ajudar em muitas duvidas sobre OAT
+github dele https://github.com/Gustavo10Destroyer
 
 # Autor da versão: _pro7
-
-
-github dele https://github.com/Gustavo10Destroyer
 
 Projetos focados em melhorias e mods para BO2 Zombies.
 
