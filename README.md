@@ -20,13 +20,9 @@ Este projeto é open source.
 #👉 Apenas mantenha os créditos.
 
 #👥 Créditos
-Cowldwink
-Freestyle
-Frozedy
-GabsPuN
+Cowldwink, Freestyle, Frozedy e GabsPuN
 
-#⚡ Autor da versão
-_pro7
+#⚡ Autor da versão: _pro7
 
 Projetos focados em melhorias e mods para BO2 Zombies.
 
