@@ -27,7 +27,7 @@ Cowldwink, Freestyle, Frozedy e GabsPuN
 # Creditos
 Tambem ao Gustavo10Destroyer por me ajudar em muitas duvidas sobre OAT
 
-github dee https://github.com/Gustavo10Destroyer
+github dele https://github.com/Gustavo10Destroyer
 
 Projetos focados em melhorias e mods para BO2 Zombies.
 
