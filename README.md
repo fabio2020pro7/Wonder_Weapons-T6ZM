@@ -22,10 +22,10 @@ Apenas mantenha os créditos.
 # Créditos
 Cowldwink, Freestyle, Frozedy e GabsPuN
 
+e tambem deixarei creditos ao Gustavo10Destroyer por me ajudar em muitas duvidas sobre OAT
+
 # Autor da versão: _pro7
 
-# Creditos
-Tambem ao Gustavo10Destroyer por me ajudar em muitas duvidas sobre OAT
 
 github dele https://github.com/Gustavo10Destroyer
 
