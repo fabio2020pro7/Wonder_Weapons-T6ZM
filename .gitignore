@@ -1,0 +1,11 @@
+compiled/
+compiled/
+accuracy/aivsplayer/
+accuracy/aivsai/
+model_export/
+materials/
+xmodel/
+shock/
+.t6modm.env
+*/**/tempzones
+.vscode

@@ -1,0 +1,14 @@
+VERSION             "1"
+CONFIG              ""
+FILENOTES           ""
+
+REFERENCE           ZOMBIE_WEAPON_FREEZEGUN
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to buy Freezegun [Cost: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_FREEZEGUN
+LANG_ENGLISH        "Winter's Howl"
+
+REFERENCE           ZOMBIE_WEAPON_FREEZEGUN_UPGRADED
+LANG_ENGLISH        "Winter's Fury"
+
+ENDMARKER

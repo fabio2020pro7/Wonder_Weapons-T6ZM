@@ -1,0 +1,14 @@
+VERSION             "1"
+CONFIG              ""
+FILENOTES           ""
+
+REFERENCE           ZOMBIE_WEAPON_THUNDERGUN
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to buy Thundergun [Cost: &&1]"
+
+REFERENCE           WEAPON_THUNDERGUN
+LANG_ENGLISH        "Thundergun"
+
+REFERENCE           WEAPON_THUNDERGUN_UPGRADED
+LANG_ENGLISH        "ZeusCannon"
+
+ENDMARKER

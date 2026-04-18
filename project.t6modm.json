@@ -1,0 +1,9 @@
+{
+    "name": "WONDER_WEAPONS",
+    "author": "Pro7xt",
+    "version": "1.4",
+    "description": "Mod BX7 by Pro7xt",
+    "fastfiles": [
+    "$HOME/fastfile/WW.ff"
+    ]
+}

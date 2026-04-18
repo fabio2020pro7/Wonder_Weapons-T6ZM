@@ -1,0 +1,95 @@
+>game,T6
+>name,mod
+
+include,weapons/thundergun
+
+script,scripts/zm/thundergun.csc
+script,scripts/zm/thundergun.gsc
+
+soundbank,cmn_foley.all
+soundbank,wpn_thundergun.all
+
+rawfile,animtrees/zm_tomb_basic.atr
+rawfile,animtrees/zm_nuked_basic.atr
+rawfile,animtrees/zm_buried_basic.atr
+rawfile,animtrees/zm_prison_basic.atr
+rawfile,animtrees/zm_transit_basic.atr
+rawfile,animtrees/zm_highrise_basic.atr
+
+rawfile,animstatedefs/zm_tomb_basic.asd
+rawfile,animstatedefs/zm_nuked_basic.asd
+rawfile,animstatedefs/zm_buried_basic.asd
+rawfile,animstatedefs/zm_prison_basic.asd
+rawfile,animstatedefs/zm_transit_basic.asd
+rawfile,animstatedefs/zm_highrise_basic.asd
+
+script,scripts/zm/zm_tomb/anims_thundergun.gsc // noignore
+script,scripts/zm/zm_nuked/anims_thundergun.gsc // noignore
+script,scripts/zm/zm_buried/anims_thundergun.gsc // noignore
+script,scripts/zm/zm_prison/anims_thundergun.gsc // noignore
+script,scripts/zm/zm_transit/anims_thundergun.gsc // noignore
+script,scripts/zm/zm_highrise/anims_thundergun.gsc // noignore
+
+include,weapons/freezegun
+
+soundbank,wpn_freezegun.all
+
+script,scripts/zm/Freeze.csc
+script,scripts/zm/freeze.gsc
+
+rawfile,animtrees/zm_tomb_basic.atr
+rawfile,animtrees/zm_nuked_basic.atr
+rawfile,animtrees/zm_buried_basic.atr
+rawfile,animtrees/zm_prison_basic.atr
+rawfile,animtrees/zm_transit_basic.atr
+rawfile,animtrees/zm_highrise_basic.atr
+
+rawfile,animstatedefs/zm_tomb_basic.asd
+rawfile,animstatedefs/zm_nuked_basic.asd
+rawfile,animstatedefs/zm_buried_basic.asd
+rawfile,animstatedefs/zm_prison_basic.asd
+rawfile,animstatedefs/zm_transit_basic.asd
+rawfile,animstatedefs/zm_highrise_basic.asd
+
+script,scripts/zm/zm_tomb/anims_freeze.gsc // noignore
+script,scripts/zm/zm_nuked/anims_freeze.gsc // noignore
+script,scripts/zm/zm_buried/anims_freeze.gsc // noignore
+script,scripts/zm/zm_prison/anims_freeze.gsc // noignore
+script,scripts/zm/zm_transit/anims_freeze.gsc // noignore
+script,scripts/zm/zm_highrise/anims_freeze.gsc // noignore
+
+include,weapons/teslagun_zm
+
+localize,tesla_gun
+
+script,scripts/zm/teslagun.csc
+script,scripts/zm/teslagun.gsc
+
+soundbank,wpn_tesla.all
+
+rawfile,animtrees/zm_tomb_basic.atr
+rawfile,animtrees/zm_nuked_basic.atr
+rawfile,animtrees/zm_buried_basic.atr
+rawfile,animtrees/zm_prison_basic.atr
+rawfile,animtrees/zm_transit_basic.atr
+rawfile,animtrees/zm_highrise_basic.atr
+
+rawfile,animstatedefs/zm_tomb_basic.asd
+rawfile,animstatedefs/zm_nuked_basic.asd
+rawfile,animstatedefs/zm_buried_basic.asd
+rawfile,animstatedefs/zm_prison_basic.asd
+rawfile,animstatedefs/zm_transit_basic.asd
+rawfile,animstatedefs/zm_highrise_basic.asd
+
+//script,scripts/zm/zm_tomb/anims_teslagun.gsc // noignore
+//script,scripts/zm/zm_buried/anims_teslagun.gsc // noignore
+//script,scripts/zm/zm_prison/anims_teslagun.gsc // noignore
+
+script,scripts/zm/zm_transit/anims_teslagun.gsc // noignore
+script,scripts/zm/zm_highrise/anims_teslagun.gsc // noignore
+script,scripts/zm/zm_nuked/anims_teslagun.gsc // noignore
+
+file: fx/**/*.efx fx/
+file: images/*.iwi images/
+file: weapons/zm/* weapons/zm/
+file: xanim/* xanim/

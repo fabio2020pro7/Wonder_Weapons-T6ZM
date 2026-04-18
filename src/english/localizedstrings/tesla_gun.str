@@ -1,0 +1,14 @@
+VERSION             "1"
+CONFIG              ""
+FILENOTES           ""
+
+REFERENCE           ZOMBIE_WEAPON_TESLA
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to buy Tesla [Cost: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_TESLA
+LANG_ENGLISH        "Wunderwaffe DG-2"
+
+REFERENCE           ZOMBIE_WEAPON_TESLA_UPGRADED
+LANG_ENGLISH        "Wunderwaffe DG-3 JZ"
+
+ENDMARKER
