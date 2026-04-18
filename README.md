@@ -12,7 +12,7 @@ Permitir múltiplas Wonder Weapons simultaneamente
 
 Sinta-se livre para usar, Modificar e Integrar em seus projetos
 
-# Apenas mantenha os créditos.
+Apenas mantenha os créditos.
 
 # Créditos
 Cowldwink, Freestyle, Frozedy e GabsPuN
