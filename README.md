@@ -10,9 +10,7 @@ Permitir múltiplas Wonder Weapons simultaneamente
 
 #Este projeto é open source.
 
-✔ Sinta-se livre para usar
-✔ Modificar
-✔ Integrar em seus projetos
+Sinta-se livre para usar, Modificar e Integrar em seus projetos
 
 # Apenas mantenha os créditos.
 
